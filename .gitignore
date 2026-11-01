@@ -1,0 +1,17 @@
+# Builds / caches
+build/
+.cache/
+__pycache__/
+*.py[cod]
+*.swp
+.DS_Store
+# Scan images and unpublished private data
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.pdf
+# Temporary patch-stage backups
+.scan_tools_v2_backup/
+.scan_tools_v3_backup/
